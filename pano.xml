@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="17319" appversion="6.0.4">
+  <input leveltilesize="510" levelbiashidpi="0.400" width="7500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="7500" levelingpitch="0" overlap="1" levelbias="0.400" levelingroll="0">
+    <level preload="0" width="7500" predecode="0" height="7500"/>
+    <level preload="0" width="3750" predecode="0" height="3750"/>
+    <level preload="0" width="1875" predecode="0" height="1875"/>
+    <level preload="0" width="937" predecode="0" height="937"/>
+    <level preload="1" width="468" predecode="1" height="468"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start pan="125.424" tilt="-18.9587" fov="120" projection="4"/>
+    <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+    <min pan="0" tilt="-90" fov="5"/>
+    <max scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360" tilt="90" fov="120"/>
+  </view>
+  <userdata title="" latitude="" info="" tags="Новая папка|улица" datetime="04/11/2017 1:27 PM" author="" source="" copyright="" description="" longitude="" customnodeid="" comment=""/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label border="1" textalpha="1" width="180" borderradius="1" textcolor="0x000000" background="1" height="20" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" enabled="1" borderalpha="1" backgroundalpha="1"/>
+    <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+    <hotspot url="" title="Street" target="" id="Point01" pan="-263.21" tilt="-9.14" skinid="ht_info" description="An exposition of military equipment and weapons has been created in the open area. Among the most interesting samples: locomotive and ambulance car ( with a local exposition dedicated to front-line physicians), on the platform anti-aircraft gun caliber 100 mm., hitting targets at an altitude of 15 km. MI8 Helicopter with special equipment, which interferes with electronic equipment, ie, complicates its detection. He participated in the Afghan war. Armored subsonic attack aircraft SU25. In Afghanistan was nicknamed &quot;Grach&quot;. This bird is depicted on the side of the fuselage of the aircraft. 8 points suspension arms. Automatic anti-aircraft gun S-60. Fighter-bomber SU7B. develops a speed of 2 times the speed of sound – 2120 km/h MI2 Helicopter – reconnaissance, fire support and transportation of land forces. SAM S-75 – anti-aircraft missile system, used to destroy high-speed enemy aircraft. A similar model was shot down aircraft F. powers. BTR-60 and BRDM-2 – armored vehicles. At the site exhibited: anti-tank gun, a tractor and a car OPEL, 122mm self-propelled howitzer Gvozdika, tanks - Т80Б, T 72,T55 and T54 , the IP 3, T-34-85 , SAU-152 self – propelled artillery unit (Zveroboy), ZIS-5V.Iberian Paleta installation (Zveroboy), ZIS-5V."/>
+    <hotspot url="" title="Улица" target="" id="Point02" pan="-238.57" tilt="-10.55" skinid="ht_info" description="На открытой площадке создана экспозиция военной техники и вооружений. В числе наиболее интересных образцов: Локомотив и санитарный вагон ( с локальной экспозицией, посвященной фронтовым медикам), на платформе зенитная пушка калибра 100 мм., поражающая цели на высоте до 15 км. Вертолет МИ8 со специальным оборудованием, которое создает помехи в электронной аппаратуре, т.е. затрудняет его обнаружение. Участвовал в Афганской войне. Бронированный дозвуковой штурмовик СУ25. В Афганистане получил кличку «грач». Эта птица изображена сбоку на фюзеляже самолета. 8 точек подвески вооружения. Автоматическая зенитная пушка С-60. Истребитель-бомбардировщик СУ7Б. развивает скорость в 2 раза больше скорости звука – 2120 км/ч Вертолет МИ2 – разведка, огневая поддержка и транспортировка сухопутных войск. ЗРК С-75 – зенитно-ракетный комплекс, использовался для уничтожения высокоскоростных самолетов противника. Подобной моделью был сбит самолет Ф.Пауэрса. БТР-60 и БРДМ-2 – бронированная техника. На площадке экспонируются: противотанковые пушки, трактор и автомобиль ОПЕЛЬ, 122мм самоходная гаубица «гвоздика», танки - Т80Б, Т 72,Т55 и Т54 , ИС 3, Т-34-85 , САУ 152 – самоходная артиллерийская установка («Зверобой»), автомобиль ЗиС-5В.ерийская установка («Зверобой»), автомобиль ЗиС-5В."/>
+  </hotspots>
+  <media/>
+  <transition softedge="0" zoomoutpause="1" type="crossdissolve" zoomout="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" enabled="0" zoomfov="20" blendtime="1"/>
+  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+  <control lockedkeyboard="0" sensitivity="7" speedwheel="1" hideabout="0" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" invertcontrol="1" simulatemass="0" dblclickfullscreen="0" lockedmouse="0" lockedwheel="0" contextfullscreen="0"/>
+</panorama>
